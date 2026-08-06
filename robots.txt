@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://theknownetworkcorp-glitch.github.io/readme-b6ymr4/sitemap.xml
